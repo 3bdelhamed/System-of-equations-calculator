@@ -1,0 +1,15 @@
+C:\Users\Abdo\source\repos\rre3\bin\Debug\net6.0\rre3.exe
+C:\Users\Abdo\source\repos\rre3\bin\Debug\net6.0\rre3.deps.json
+C:\Users\Abdo\source\repos\rre3\bin\Debug\net6.0\rre3.runtimeconfig.json
+C:\Users\Abdo\source\repos\rre3\bin\Debug\net6.0\rre3.dll
+C:\Users\Abdo\source\repos\rre3\bin\Debug\net6.0\rre3.pdb
+C:\Users\Abdo\source\repos\rre3\obj\Debug\net6.0\rre3.csproj.AssemblyReference.cache
+C:\Users\Abdo\source\repos\rre3\obj\Debug\net6.0\rre3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\source\repos\rre3\obj\Debug\net6.0\rre3.AssemblyInfoInputs.cache
+C:\Users\Abdo\source\repos\rre3\obj\Debug\net6.0\rre3.AssemblyInfo.cs
+C:\Users\Abdo\source\repos\rre3\obj\Debug\net6.0\rre3.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\source\repos\rre3\obj\Debug\net6.0\rre3.dll
+C:\Users\Abdo\source\repos\rre3\obj\Debug\net6.0\refint\rre3.dll
+C:\Users\Abdo\source\repos\rre3\obj\Debug\net6.0\rre3.pdb
+C:\Users\Abdo\source\repos\rre3\obj\Debug\net6.0\rre3.genruntimeconfig.cache
+C:\Users\Abdo\source\repos\rre3\obj\Debug\net6.0\ref\rre3.dll
